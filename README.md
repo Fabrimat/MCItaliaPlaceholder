@@ -11,3 +11,9 @@ Placeholder disponibili:
 - %mcita_version_SERVERID% - Versione del server
 
 N.B. Sostituire SERVERID con l'id testuale del server specificato nel server-info.yml come "url".
+
+# Installazione
+- Scarica ed installa [PlaceholderAPI](https://www.spigotmc.org/resources/placeholderapi.6245/)
+- Avvia il server
+- Inserisci questo addon nella cartella "plugins\PlaceholderAPI\expansions"
+- Riavvia il server
